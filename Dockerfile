@@ -1,5 +1,5 @@
 # Pull base image 
-From tomcat
+From tomcat:8-jre8
 
 # Maintainer 
 MAINTAINER "Himanshu Goyal" 
