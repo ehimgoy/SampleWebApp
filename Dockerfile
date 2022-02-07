@@ -2,5 +2,5 @@
 From tomcat:8-jre8
 
 # Maintainer 
-MAINTAINER "Himanshu Goyal" 
+MAINTAINER "Nupur" 
 COPY ./SampleWebApp.war /usr/local/tomcat/webapps
